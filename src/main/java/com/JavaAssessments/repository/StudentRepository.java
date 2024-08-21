@@ -1,10 +1,10 @@
-package com.SpringPractice.repository;
+package com.JavaAssessments.repository;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-import com.SpringPractice.model.Student;
+import com.JavaAssessments.model.Student;
 
 public class StudentRepository {
     private final List<Student> students = new ArrayList<>();

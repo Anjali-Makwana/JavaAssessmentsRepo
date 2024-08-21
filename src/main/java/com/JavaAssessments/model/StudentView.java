@@ -1,4 +1,4 @@
-package com.SpringPractice.model;
+package com.JavaAssessments.model;
 
 import java.util.List;
 import java.util.Scanner;

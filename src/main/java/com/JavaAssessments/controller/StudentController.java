@@ -1,10 +1,10 @@
-package com.SpringPractice.controller;
+package com.JavaAssessments.controller;
 
 import java.util.Optional;
 
-import com.SpringPractice.model.Student;
-import com.SpringPractice.model.StudentView;
-import com.SpringPractice.service.StudentService;
+import com.JavaAssessments.model.Student;
+import com.JavaAssessments.model.StudentView;
+import com.JavaAssessments.service.StudentService;
 
 public class StudentController {
     private final StudentService service;

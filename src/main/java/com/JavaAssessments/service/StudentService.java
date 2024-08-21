@@ -1,10 +1,10 @@
-package com.SpringPractice.service;
+package com.JavaAssessments.service;
 
 import java.util.List;
 import java.util.Optional;
 
-import com.SpringPractice.model.Student;
-import com.SpringPractice.repository.StudentRepository;
+import com.JavaAssessments.model.Student;
+import com.JavaAssessments.repository.StudentRepository;
 
 public class StudentService {
 	

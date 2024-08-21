@@ -1,9 +1,9 @@
-package com.SpringPractice.view;
+package com.JavaAssessments.view;
 
-import com.SpringPractice.controller.StudentController;
-import com.SpringPractice.model.StudentView;
-import com.SpringPractice.repository.StudentRepository;
-import com.SpringPractice.service.StudentService;
+import com.JavaAssessments.controller.StudentController;
+import com.JavaAssessments.model.StudentView;
+import com.JavaAssessments.repository.StudentRepository;
+import com.JavaAssessments.service.StudentService;
 
 public class StudentMain {
     public static void main(String[] args) {

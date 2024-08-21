@@ -1,4 +1,4 @@
-package com.SpringPractice.model;
+package com.JavaAssessments.model;
 
 public class Student {
 
